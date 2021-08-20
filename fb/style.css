@@ -1,0 +1,20 @@
+.jumbotron{
+    height: 580px;
+}
+
+h1{
+    color: blue;
+}
+
+form{
+    background-color: white;
+}
+
+.form-group{
+    margin-left: 22px;
+    width: 400px;
+}
+button{
+    width: 400px;
+}
+
